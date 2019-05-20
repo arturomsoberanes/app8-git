@@ -5,10 +5,10 @@
  id ="com.phonegap.app8"
  version = "1.0.0">
 
- <name> app4-App sobre el diá internacional de la madre tierra </name>
+ <name> app8-GPS </name>
 
  <description>
- Aplicaión que nos muestra información acerca del diá internacional de la madre tierra
+ Aplicación que nos muestra nuestra ubicación
  </description>
 
  <author href="https://build.phonegap.com" email="arceuz01@gmail.com">
